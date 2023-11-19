@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "eng.local.config.ApplicationProperties",
+      "sourceType": "eng.local.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
